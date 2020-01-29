@@ -53,7 +53,7 @@ General:
 #Debug console messages.
 Debug:
     #Inventory sync debug messages.
-    InventorySync: false
+    InventorySync: true
     
 
 #Chat Messages with full color and format codes support. Disable any message by setting it to ''  |  Example>  syncComplete: ''
